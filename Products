@@ -1,3 +1,4 @@
+<!-- explore.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,36 +58,7 @@
             <p>This is a short preview of the blog post content.</p>
             <a href="blog1.html" class="button">Read Blog</a>
         </div>
-        <div class="content">
-            <img src="https://picsum.photos/250/150?random=2" alt="Podcast 1">
-            <h3>Podcast Episode 1</h3>
-            <p>Listen to this insightful podcast episode on various topics.</p>
-            <a href="podcast1.html" class="button">Listen Now</a>
-        </div>
-        <div class="content">
-            <img src="https://picsum.photos/250/150?random=3" alt="User Submission 1">
-            <h3>User Submission 1</h3>
-            <p>A fascinating article submitted by one of our users.</p>
-            <a href="submit1.html" class="button">Read Submission</a>
-        </div>
-        <div class="content">
-            <img src="https://picsum.photos/250/150?random=4" alt="Blog 2">
-            <h3>Blog Post 2</h3>
-            <p>Another interesting blog to dive into and explore ideas.</p>
-            <a href="blog2.html" class="button">Read Blog</a>
-        </div>
-        <div class="content">
-            <img src="https://picsum.photos/250/150?random=5" alt="Podcast 2">
-            <h3>Podcast Episode 2</h3>
-            <p>Join us as we explore new ideas in this podcast episode.</p>
-            <a href="podcast2.html" class="button">Listen Now</a>
-        </div>
-        <div class="content">
-            <img src="https://picsum.photos/250/150?random=6" alt="User Submission 2">
-            <h3>User Submission 2</h3>
-            <p>Another amazing submission with great insights from our community.</p>
-            <a href="submit2.html" class="button">Read Submission</a>
-        </div>
+        <!-- Add other content blocks as needed -->
     </div>
 </body>
 </html>
